@@ -1,0 +1,13 @@
+# Java and Spring Boot
+/backend/target/
+*.class
+
+# Node.js
+/frontend/node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
